@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="displayView">TextView</string>
+    <string name="calculator">Calculator</string>
+    <string name="enter_number">Enter number</string>
+    <string name="addButton">add/+</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multiplyBtn">*</string>
+    <string name="divBtn">÷</string>
+</resources>
